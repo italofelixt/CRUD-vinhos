@@ -95,8 +95,6 @@ public class ListaDeRotulos {   //classe que é um vetor de objetos.
 			s.append(this.elementos[this.tamanho - 1]);// add o elemento da última posicao;
 		}
 
-		//s.append("]");
-
 		return s.toString();// precisa retornar usando o toString pois é o retorno do método que foi
 							// sobreescrito
 	}

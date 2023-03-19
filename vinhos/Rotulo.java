@@ -75,7 +75,7 @@ public class Rotulo {
 	@Override
 	public String toString() {
 		return "Rótulo{Nome:" + nome + ", \nProdutor: " + produtor + ", \nTipo: " + tipo + ", \nRegião: " + regiao
-				+ ", \nAno de Produção: " + anoProducao + "}";
+				+ ", \nAno de Produção: " + anoProducao + "}" + "\n\n";
 
 	}
 
